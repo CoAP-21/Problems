@@ -3,11 +3,13 @@
 
 *This is a repository for solving algorithm problems.*
 
+
 <br/>
+
 
 # Contributors
 
-<div align="center">
+<div align="center" style="width: 70%">
   <div style="margin: 30px">
         <img src="https://github-readme-stats.vercel.app/api?username=heeyoungs&show_icons=true" style="width: 430px"></img>
 <a href="https://solved.ac/profile/gmldud9605">
@@ -15,6 +17,10 @@
     </a>
   </div>
 <div/>
+
+
+<br/>
+
 
 <div>
 <div align="center">
@@ -26,7 +32,10 @@
   </div>
 </div>
 
-<div>
+
+<br/>
+
+
 <div align="center">
     <div style="margin: 30px">
       <img src="https://github-readme-stats.vercel.app/api?username=Leesm0518&show_icons=true" style="width: 430px"></img>
@@ -35,6 +44,7 @@
     </a>
   </div>
 </div>
+
 
 <br/>
 
